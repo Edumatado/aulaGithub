@@ -1,0 +1,1 @@
+alert("vida de caipira nao e ")
